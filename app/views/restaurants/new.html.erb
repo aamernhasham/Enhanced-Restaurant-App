@@ -1,0 +1,19 @@
+<h3>Adding a new restaurant to the Restaurants Directory </h3>
+
+<%=form_for (@restaurant) do |r| %>
+
+Restaurant Name: <%=r.text_field :name%>
+<br>
+Restaurant Address: <%=r.text_field :address%>
+<br>
+Capacity: <%=r.text_field :capacity%>
+<br>
+Cuisine Type ID: <%=r.collection_select :cuisine_type_id, CuisineType.all,:id,:name%>
+<br>
+<%=r.submit%>
+
+<%end%>
+
+
+
+

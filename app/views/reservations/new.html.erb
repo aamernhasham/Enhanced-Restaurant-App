@@ -1,0 +1,14 @@
+<h3> Adding reservations for <%= @restaurant.name %> </h3>
+
+
+<%=form_for([@restaurant,@reservation]) do |r|%>
+<%=r.label :party_size%>
+<%=r.text_field :party_size%>
+<br>
+<%=r.label :seating_time%>
+<%=r.datetime_select :seating_time%>
+<br>
+<%=r.submit%>
+
+<%end%>
+

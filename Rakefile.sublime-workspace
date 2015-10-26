@@ -1,0 +1,376 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"res",
+				"restaurant"
+			],
+			[
+				"in",
+				"integer"
+			],
+			[
+				"match",
+				"match_result"
+			],
+			[
+				"pleas",
+				"plateau_size_expression"
+			],
+			[
+				"pla",
+				"plateau_size_input"
+			],
+			[
+				"x_",
+				"x_plateau_size"
+			],
+			[
+				"y",
+				"y_plateau_size"
+			],
+			[
+				"Y_plat",
+				"y_plateau_start"
+			],
+			[
+				"y_",
+				"y_plat_coord"
+			],
+			[
+				"x_plat",
+				"x_plat_coord"
+			],
+			[
+				"di",
+				"direction"
+			],
+			[
+				"x",
+				"x_coordinate"
+			],
+			[
+				"attr_",
+				"attr_accessor"
+			],
+			[
+				"Person",
+				"PersonalValues"
+			],
+			[
+				"attr",
+				"attr_accessor"
+			],
+			[
+				"profession",
+				"profession_type"
+			],
+			[
+				"my",
+				"mymushrooms"
+			],
+			[
+				"piza",
+				"pizza_toppings"
+			],
+			[
+				"PI",
+				"pizzaToppings"
+			],
+			[
+				"per",
+				"personal_goals"
+			],
+			[
+				"perso",
+				"person_goals"
+			],
+			[
+				"ass",
+				"assigningMethodNames"
+			],
+			[
+				"first",
+				"firstMethod"
+			],
+			[
+				"to",
+				"to_s"
+			],
+			[
+				"new",
+				"newhash"
+			],
+			[
+				"each",
+				"each_with_index"
+			],
+			[
+				"String",
+				"StringMulti"
+			],
+			[
+				"con",
+				"convert_to_f"
+			],
+			[
+				"conversion",
+				"conversion_business"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "Snippet: ",
+		"selected_items":
+		[
+			[
+				"Snippet: ",
+				"Snippet: Array.new(10) { |i| .. }"
+			]
+		],
+		"width": 530.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/aamerhasham/Dropbox/RubyandRails/Rails/resto/app/views/restaurants/show.html.erb",
+		"/Users/aamerhasham/Dropbox/RubyandRails/index.html",
+		"/Users/aamerhasham/Dropbox/RubyandRails/Rails/resto/app/controllers/restaurants_controller.rb",
+		"/Users/aamerhasham/Dropbox/RubyandRails/Rails/resto/app/views/reservations/index.html.erb",
+		"/Users/aamerhasham/Dropbox/RubyandRails/Rails/resto/app/views/reservations/show.html.erb",
+		"/Users/aamerhasham/Dropbox/RubyandRails/Rails/resto/app/controllers/reservations_controller.rb",
+		"/Users/aamerhasham/Dropbox/RubyandRails/Rails/resto/app/views/reservations/destroy.html.erb",
+		"/Users/aamerhasham/Dropbox/RubyandRails/Rails/resto/app/views/reservations/edit.html.erb",
+		"/Users/aamerhasham/Dropbox/RubyandRails/Rails/resto/app/models/restaurant.rb",
+		"/Users/aamerhasham/Dropbox/RubyandRails/Rails/resto/app/controllers/cuisine_types_controller.rb",
+		"/Users/aamerhasham/Dropbox/RubyandRails/Rails/resto/app/views/reservations/new.html.erb",
+		"/Users/aamerhasham/Dropbox/RubyandRails/Rails/resto/app/views/users/new.html.erb",
+		"/Users/aamerhasham/Dropbox/RubyandRails/Rails/resto/app/views/cuisine_types/show.html.erb",
+		"/Users/aamerhasham/Dropbox/RubyandRails/Rails/resto/config/routes.rb",
+		"/Users/aamerhasham/Dropbox/RubyandRails/Rails/resto/app/models/reservation.rb",
+		"/Users/aamerhasham/Dropbox/RubyandRails/Rails/resto/app/controllers/users_controller.rb",
+		"/Users/aamerhasham/Dropbox/RubyandRails/Rails/resto/app/views/cuisine_types/show_by_id.html.erb",
+		"/Users/aamerhasham/Dropbox/RubyandRails/Rails/resto/app/views/cuisine_types/index.html.erb",
+		"/Users/aamerhasham/Dropbox/RubyandRails/Rails/resto/app/controllers/application_controller.rb",
+		"/Users/aamerhasham/Dropbox/RubyandRails/Rails/resto/app/controllers/sessions_controller.rb",
+		"/Users/aamerhasham/Dropbox/RubyandRails/Rails/resto/Gemfile",
+		"/Users/aamerhasham/Dropbox/RubyandRails/Rails/resto/app/models/user.rb",
+		"/Users/aamerhasham/Dropbox/RubyandRails/Rails/resto/app/views/cuisine_types/show_by_name.html.erb",
+		"/Users/aamerhasham/Dropbox/RubyandRails/Rails/resto/app/models/cuisine_type.rb",
+		"/Users/aamerhasham/Dropbox/RubyandRails/Rails/ToyApp/app/controllers/microposts_controller.rb",
+		"/Users/aamerhasham/Dropbox/RubyandRails/Rails/rails_movietime_with_models/config/routes.rb",
+		"/Users/aamerhasham/Dropbox/RubyandRails/Rails/rails_movietime_with_models/app/views/movies/index.html.erb",
+		"/Users/aamerhasham/Dropbox/RubyandRails/Rails/rails_movietime_with_models/app/controllers/movies_controller.rb",
+		"/Users/aamerhasham/Dropbox/RubyandRails/Rails/rails_movietime_with_models/app/views/movies/show_all_movies.html.erb",
+		"/Users/aamerhasham/Dropbox/RubyandRails/Rails/ToyApp/app/views/users/show.html.erb",
+		"/Users/aamerhasham/Dropbox/RubyandRails/Rails/rails_movietime_with_models/app/views/movies/show_by_id.html.erb",
+		"/Users/aamerhasham/Dropbox/RubyandRails/Rails/rails_movietime_with_models/app/views/movies/new.html.erb",
+		"/Users/aamerhasham/Dropbox/RubyandRails/Rails/rails_movietime_with_models_and_controllers/app/views/movies/new.html.erb",
+		"/Users/aamerhasham/Dropbox/RubyandRails/Rails/rails_movietime_with_models_and_controllers/app/views/movies/index.html.erb",
+		"/Users/aamerhasham/Dropbox/RubyandRails/Rails/ToyApp/config/routes.rb",
+		"/Users/aamerhasham/Dropbox/RubyandRails/Rails/rails_movietime_with_models/app/controllers/application_controller.rb",
+		"/Users/aamerhasham/Dropbox/RubyandRails/Rails/rails_movietime_with_models/db/schema.rb",
+		"/Users/aamerhasham/Dropbox/RubyandRails/Rails/ToyApp/app/views/users/edit.html.erb",
+		"/Users/aamerhasham/Dropbox/RubyandRails/Rails/resto/app/models/cusine_type.rb",
+		"/Users/aamerhasham/Dropbox/RubyandRails/Rails/resto/db/schema.rb",
+		"/Users/aamerhasham/Dropbox/RubyandRails/Rails/ToyApp/db/migrate/20150904020923_create_users.rb",
+		"/Users/aamerhasham/Dropbox/RubyandRails/Rails/ToyApp/app/models/user.rb",
+		"/Users/aamerhasham/Dropbox/RubyandRails/Rails/ToyApp/app/models/micropost.rb",
+		"/Users/aamerhasham/Dropbox/RubyandRails/Rails/ToyApp/app/controllers/users_controller.rb",
+		"/Users/aamerhasham/Dropbox/RubyandRails/Rails/ToyApp/app/views/users/index.html.erb",
+		"/Users/aamerhasham/Dropbox/RubyandRails/Rails/HelloWorld/HelloWorldApp/config/routes.rb",
+		"/Users/aamerhasham/Dropbox/RubyandRails/Rails/HelloWorld/HelloWorldApp/app/controllers/application_controller.rb",
+		"/Users/aamerhasham/Dropbox/RubyandRails/Rails/RestaurantApp/restaurant_app/app/models/restaurant.rb",
+		"/Users/aamerhasham/Dropbox/RubyandRails/Rails/RestaurantApp/restaurant_app/app/models/reservation.rb",
+		"/Users/aamerhasham/Dropbox/RubyandRails/Rails/RestaurantApp/restaurant_app/db/schema.rb",
+		"/Users/aamerhasham/Dropbox/RubyandRails/Rails/RestaurantApp/restaurant_app/db/migrate/20150901004128_add_price_range_to_restaurants.rb",
+		"/Users/aamerhasham/Dropbox/RubyandRails/Rails/rails_movietime_with_models_and_controllers/app/models/movie.rb",
+		"/Users/aamerhasham/Dropbox/RubyandRails/Rails/rails_movietime_with_models_and_controllers/app/controllers/movies_controller.rb",
+		"/Users/aamerhasham/Dropbox/RubyandRails/Rails/rails_movietime_with_models_and_controllers/config/routes.rb",
+		"/Users/aamerhasham/Dropbox/RubyandRails/Rails/rails_movietime_with_models_and_controllers/app/views/index.html.erb",
+		"/Users/aamerhasham/Dropbox/RubyandRails/Sinatra/sinatra-contact-manager/SinatraContactManager.rb",
+		"/Users/aamerhasham/Dropbox/RubyandRails/Rails/photoblog/Gemfile",
+		"/Users/aamerhasham/Dropbox/RubyandRails/Rails/photoblog/Gemfile.lock",
+		"/Users/aamerhasham/Dropbox/RubyandRails/Sinatra/sinatra-contact-manager/server.rb",
+		"/Users/aamerhasham/Dropbox/RubyandRails/Sinatra/sinatra-contact-manager/views/delete_one_contact.erb",
+		"/Users/aamerhasham/Dropbox/RubyandRails/Rails/RailsExamples",
+		"/Users/aamerhasham/Dropbox/RubyandRails/Sinatra/sinatra-contact-manager/views/show_one_contact.erb",
+		"/Users/aamerhasham/Dropbox/RubyandRails/Sinatra/sinatra-contact-manager/views/show_all.erb",
+		"/Users/aamerhasham/Dropbox/RubyandRails/Sinatra/sinatra-contact-manager/views/edit_one_contact.erb",
+		"/Users/aamerhasham/Dropbox/RubyandRails/Sinatra/sinatra-contact-manager/views/create_new.erb",
+		"/Users/aamerhasham/Dropbox/RubyandRails/Sinatra/sinatra-contact-manager/contact.rb",
+		"/Users/aamerhasham/Dropbox/RubyandRails/Sinatra/sinatra-contact-manager/views/index.erb",
+		"/Users/aamerhasham/Dropbox/RubyandRails/Sinatra/FirstSinatraGetRequest.rb",
+		"/Users/aamerhasham/Dropbox/RubyandRails/Sinatra/sinatra-contact-manager/views/Create_new_contact.erb",
+		"/Users/aamerhasham/Dropbox/RubyandRails/Sinatra/sinatra-contact-manager/views/aamer_test.erb",
+		"/Users/aamerhasham/Dropbox/RubyandRails/Sinatra/sinatra-contact-manager/SinatraContactManager.sublime-workspace",
+		"/Users/aamerhasham/Dropbox/RubyandRails/Sinatra/sinatra-contact-manager/SinatraContactManager.sublime-project",
+		"/Users/aamerhasham/Dropbox/RubyandRails/Sinatra.rb",
+		"/Users/aamerhasham/Dropbox/RubyandRails/GitShareFolder/GitChangeTest",
+		"/Users/aamerhasham/MarsRover.rb",
+		"/Users/aamerhasham/ObjectOriented.rb",
+		"/Users/aamerhasham/stringsandhashes.rb",
+		"/Users/aamerhasham/OOExcercise1.rb",
+		"/Users/aamerhasham/exercise4.rb",
+		"/Users/aamerhasham/exercise5.rb",
+		"/Users/aamerhasham/Exercise6.rb",
+		"/Users/aamerhasham/Exercise7.rb",
+		"/Users/aamerhasham/FabioPizza.rb",
+		"/Users/aamerhasham/exercise 2.rb",
+		"/Users/aamerhasham/exercise2.rb",
+		"/Users/aamerhasham/test.html"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"1",
+			"@pizza"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Rakefile.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/test.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 339.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

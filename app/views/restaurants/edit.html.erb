@@ -1,0 +1,12 @@
+Editing Restaurant Information 
+
+<%=form_for @restaurant do |r|%>
+<h4> Name: </h4> <%=r.text_field :name%> <br>
+<h4> Address: </h4> <%=r.text_field :address%> <br>
+<h4>Capacity: </h4> <%=r.text_field :capacity%><br>
+<h4>Cuisine Type ID</h4><%=r.number_field :cuisine_type_id%> 
+<br>
+<br>
+<%=r.submit%>
+
+<%end%>

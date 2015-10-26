@@ -1,0 +1,12 @@
+Restaurants with <b><%=@cuisine_type.name%></b> Cuisine! <p><p>
+
+<%@cuisine_type.restaurants.each do |restaurant| %>
+<br>
+Name: <%=restaurant.name%></b><br>
+Address: <%=restaurant.address%><br>
+Capacity: <%=restaurant.capacity%><br>
+<%end%>
+
+<%=link_to "Edit Cuisine Type", edit_cuisine_type_path(@cuisine_type)%>
+<%=link_to "Delete Cuisine Type", cuisine_type_path(@cuisine_type),method: :delete%>
+<%=link_to "Show all Cuisines", cuisine_types_path%>

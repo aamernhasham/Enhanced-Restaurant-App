@@ -1,0 +1,14 @@
+ <h3> Here are all the reservations for <%=@restaurant.name%> </h3>
+
+<%@restaurant.reservations.each do |reservation|%>
+
+<b> Reservation </b> <br>
+Reservation ID: <%=reservation.id%> <br>
+Reservation time: <%=reservation.seating_time%> <br>
+Party size: <%=reservation.party_size%> <br>
+<p>
+
+<%end%>
+
+<%=link_to "Edit Restaurants",edit_restaurant_path(@restaurant)%>
+<%=link_to "Delete Restaurant from Database", restaurant_path(@restaurant), method: :delete%>

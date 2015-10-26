@@ -1,0 +1,7 @@
+<h3> Updating reservation <%=@reservation.id%> for <%=@restaurant.name%></h3>
+
+<%=form_for ([@restaurant,@reservation]) do |r|%>
+Party Size: <%=r.text_field :party_size%><br>
+Seating Time: <%=r.datetime_select :seating_time%><br>
+<%=r.submit%>
+<%end%>

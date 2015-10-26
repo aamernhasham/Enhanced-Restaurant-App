@@ -1,0 +1,8 @@
+Editing Cuisine Type <%=@cuisine_type.name%>
+
+<%=form_for @cuisine_type do |c| %>
+Restaurant Name: <%=c.text_field :name%> 
+
+<br>
+<%=c.submit%>
+<%end%>
