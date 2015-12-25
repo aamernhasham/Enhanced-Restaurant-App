@@ -14,6 +14,7 @@ Cuisine Type ID: <%=r.collection_select :cuisine_type_id, CuisineType.all,:id,:n
 
 <%end%>
 
+<%=link_to "Add a new restaurant", add_restaurant_path(@restaurant)%>
 
 
 

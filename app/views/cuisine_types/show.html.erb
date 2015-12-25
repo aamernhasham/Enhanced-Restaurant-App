@@ -2,7 +2,8 @@ Restaurants with <b><%=@cuisine_type.name%></b> Cuisine! <p><p>
 
 <%@cuisine_type.restaurants.each do |restaurant| %>
 <br>
-Name: <%=restaurant.name%></b><br>
+Name: <%=link_to restaurant.name, restaurant_path(restaurant)%></b>
+<br>
 Address: <%=restaurant.address%><br>
 Capacity: <%=restaurant.capacity%><br>
 <%end%>

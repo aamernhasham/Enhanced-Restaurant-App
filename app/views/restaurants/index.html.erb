@@ -2,9 +2,16 @@
 
 <%@restaurants.each do |r| %>
 <br>
+<%=link_to r.name, restaurant_path(r)%>
 <b>Name:</b> <%=r.name%>
 <b>Address:</b> <%=r.address%>
 <b>Capacity:</b> <%=r.capacity%>
 
+
 <br>
 <%end%>
+
+<br>
+
+<%=link_to "Add New Restaurant", new_restaurant_path%>
+

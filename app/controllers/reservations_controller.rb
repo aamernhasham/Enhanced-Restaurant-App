@@ -36,7 +36,6 @@ class ReservationsController < ApplicationController
 	end
 
 	def update
-		
 		@restaurant=Restaurant.find(params[:restaurant_id])
 		@reservation=Reservation.find(params[:id])
 		if @reservation.update(reservation_params)

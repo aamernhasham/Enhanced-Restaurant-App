@@ -10,5 +10,6 @@ Party size: <%=reservation.party_size%> <br>
 
 <%end%>
 
+<%=link_to "Add New Reservation", new_restaurant_reservation_path(@restaurant)%>
 <%=link_to "Edit Restaurants",edit_restaurant_path(@restaurant)%>
 <%=link_to "Delete Restaurant from Database", restaurant_path(@restaurant), method: :delete%>

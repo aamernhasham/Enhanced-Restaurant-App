@@ -3,10 +3,7 @@
 
 <% @cuisine_types.each do |cuisine_type| %>
 
-
-Id: <%=cuisine_type.id%> Name: <%= cuisine_type.name %> <br>
-
-
+<%=link_to cuisine_type.name, cuisine_type_path(cuisine_type)%> <br>
 
 <%end%>
 
