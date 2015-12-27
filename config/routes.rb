@@ -1,5 +1,12 @@
 Rails.application.routes.draw do
   
+  get 'home/index'
+
+  get 'home/about'
+
+  get 'home/contact'
+
+root 'home#index'
 # get 'cuisine_types' => 'cuisine_types#index'
 # get 'cuisine_type/:id' => 'cuisine_types#show_by_id'
 # get 'reservations/show'=>'reservations#show'
